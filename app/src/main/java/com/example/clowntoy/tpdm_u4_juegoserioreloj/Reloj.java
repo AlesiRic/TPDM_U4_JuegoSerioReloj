@@ -119,4 +119,12 @@ public class Reloj {
 
     }
 
+    public int getMinutos(){
+        return minutos;
+    }
+
+    public int getHoras(){
+        return horas;
+    }
+
 }
